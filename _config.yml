@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 github:
   is_project_page: false
+  repository_url: "google.com"
 
 title:  Test site for github pages
   
