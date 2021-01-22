@@ -1,7 +1,6 @@
 theme: jekyll-theme-modernist
 github:
   is_project_page: false
-  repository_url: "google.com"
 
 title:  Test site for github pages
   
