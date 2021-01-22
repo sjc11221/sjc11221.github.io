@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
 title:  Test site for github pages
+github:
+  is_project_page: false
